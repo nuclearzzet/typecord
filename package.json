@@ -1,0 +1,21 @@
+{
+  "name": "typecord",
+  "version": "0.0.1",
+  "description": "An API wrapper for Discord API written in TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/nuclearzzet/typecord"
+  },
+  "keywords": [
+    "API",
+    "API",
+    "wrapper",
+    "Discord"
+  ],
+  "author": "nuclearzzet",
+  "license": "MIT"
+}
